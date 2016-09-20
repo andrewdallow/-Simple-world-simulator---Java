@@ -2,6 +2,8 @@
 
 ## Simple World Simulation Program version. 1.0 24/05/2014 ##
 
+A simple Java simulation of places, things, and actors showcasing my Java coding knowledge. 
+
 ### Author Details: ###
 Name: Andrew Dallow 
 
