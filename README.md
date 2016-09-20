@@ -1,24 +1,17 @@
 # README #
 
-=======================================================
-Simple World Simulation Program version. 1.0 24/05/2014
-=======================================================
+## Simple World Simulation Program version. 1.0 24/05/2014 ##
 
-Author Details:
------------------------------------
-Name: Andrew Dallow - ID: 56999204
-E-mail: atd22@uclive.ac.nz
------------------------------------
+### Author Details: ###
+Name: Andrew Dallow 
 
-=====================
-Instructions for use
-=====================
+### Instructions for use ###
+
 When the program is first started you will four panels with blank (white) list areas.
 Pressing the 'Demo World' button at the bottom right of the widow will create a 
 pre-configured demo world, while the 'New World' button will generate a new empty 
 world.
 
-------------------------------
 Places Pane (upper left pane):
 -------------------------------
 The Places pane, located in the upper left corner of the window displays a list of
